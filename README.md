@@ -1,4 +1,4 @@
-Collaborative Recipe Box
+**Collaborative Recipe Box**
 
 Welcome to the Collaborative Recipe Box, a full-stack web application built with a simple HTML/CSS/JavaScript frontend and a powerful Java backend.
 
